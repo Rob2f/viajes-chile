@@ -8,3 +8,16 @@ background-position: center;
 .navbar-brand {
 width: 2rem;
 }
+
+.navbar{
+background: transparent;
+}
+
+
+#quienes{
+color: white;
+}
+
+.col-12 col-md-4{
+    background-color: yellowgreen;
+}
