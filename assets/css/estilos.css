@@ -1,8 +1,22 @@
+/* *{
+    border: 1px solid #73AD21 !important;
+} */
+
+body{
+background-color: #2680A8;
+}
+
 #destacados .image-top {
-height: 250px;
+height: 150px;
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
+}
+
+#destacados{
+margin-left: 50px;
+margin-right: 50px;
+
 }
 
 .navbar-brand {
@@ -15,9 +29,22 @@ background: transparent;
 
 
 #quienes{
+color: black;
+}
+
+
+#quienes i{
 color: white;
 }
 
-.col-12 col-md-4{
-    background-color: yellowgreen;
+#iconos span{
+margin-left: 250px;
+
 }
+
+/* #iconos h5{
+margin-right: 50px;
+    
+} */
+    
+
